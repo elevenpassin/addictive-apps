@@ -11,7 +11,7 @@ I wanted to create this repository to document and highlight addictive nature of
 - Discount fraud / Manipulation
 - Surge pricing
 
-## BNPL Platforms
+## Buy Now, Pay Later (BNPL) Platforms
 
 - Klarna
 - Simpl

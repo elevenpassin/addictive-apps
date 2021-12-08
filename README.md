@@ -6,13 +6,22 @@ I wanted to create this repository to document and highlight addictive nature of
 
 ## Different addictive methods used to make you spend more money, time etc:
 
-- SMS & Push Notifications
+- Automatic subscription to SMS & Push Notifications
 - Flash Ads (ex: a 2-3 sec video of pizza, this is enough to make you crave food and restart the cycle of addiction)
 - Discount fraud / Manipulation
 - Surge pricing
 - Timeline manipulation
 - Infinite scrolling
-- No useful rating / comment system (You can't like / upvote, cannot sort by or filter by in a reasonable manner, even if you try the results are not chronological as you would expect)
+- No useful rating / comment system (You can't like / upvote / downvote / dislike, cannot sort by or filter by in a reasonable manner, even if you try the results are not chronological as you would expect)
+
+
+## Enablers
+
+We cannot blame technology for the situation we are increasingly finding ourselves in, and although they may seem naive at first glance, they are just as dangerous as radiation if left unchecked, who knows they might end up or are already effecting entire generations!
+
+- Outdated laws around gambling, gamification in the digital world
+- Smartphones
+- Automated Push Notifications
 
 ## Buy Now, Pay Later (BNPL) Platforms
 

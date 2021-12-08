@@ -23,18 +23,20 @@ We cannot blame technology for the situation we are increasingly finding ourselv
 - Smartphones
 - Automated Push Notifications
 
-## Buy Now, Pay Later (BNPL) Platforms
+## Platforms
+
+### Buy Now, Pay Later (BNPL) Platforms
 
 - Klarna
 - Simpl
 - Lazypay
 
-## Food Delivery Platforms
+### Food Delivery Platforms
 
 - Zomato
 - Swiggy
 
-## Content platforms
+### Content platforms
 
 - Reddit
 - Twitter

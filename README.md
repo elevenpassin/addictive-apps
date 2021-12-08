@@ -3,6 +3,14 @@ A list of addictive applications to avoid, reasons for why they are addictive, a
 
 I wanted to create this repository to document and highlight addictive nature of many of the apps and websites, their features and their side effects. Please contribute your experience and knowledge on various apps around the world as it will help others avoid or / and come out of these addictive and often financially, mentally and physically destructive platforms.
 
+## Ongoing list of things todo:
+
+- Add apps from around the world and examples of features they use that end up exploiting customer psychology and create addiction.
+- Add research as well as new articles about the specific apps and malpractices that enable such addiction (instances and case studies).
+- Add annecdotes of people who have been addicted to these platforms (anonymised stories).
+- Add annecdotes of people who have managed to come up out such addiction.
+- Add research and resources to the science and economics behind such practices for people seeking to help themselves.
+
 
 ## Different addictive methods used to make you spend more money, time etc:
 

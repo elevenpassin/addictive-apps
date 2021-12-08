@@ -10,6 +10,9 @@ I wanted to create this repository to document and highlight addictive nature of
 - Flash Ads (ex: a 2-3 sec video of pizza, this is enough to make you crave food and restart the cycle of addiction)
 - Discount fraud / Manipulation
 - Surge pricing
+- Timeline manipulation
+- Infinite scrolling
+- No useful rating / comment system (You can't like / upvote, cannot sort by or filter by in a reasonable manner, even if you try the results are not chronological as you would expect)
 
 ## Buy Now, Pay Later (BNPL) Platforms
 
